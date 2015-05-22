@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/protected/modules/rights/components
+END
+Rights.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/protected/modules/rights/components/Rights.php
+END
+RightsWebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/protected/modules/rights/components/RightsWebUser.php
+END
+RightsGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/protected/modules/rights/components/RightsGenerator.php
+END
+RightsAuthManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/protected/modules/rights/components/RightsAuthManager.php
+END
+RightsFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/protected/modules/rights/components/RightsFilter.php
+END
+RightsAuthorizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/protected/modules/rights/components/RightsAuthorizer.php
+END
+RightsInstaller.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/protected/modules/rights/components/RightsInstaller.php
+END
+RightsAuthItemBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/protected/modules/rights/components/RightsAuthItemBehavior.php
+END
+RightsBaseController.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/protected/modules/rights/components/RightsBaseController.php
+END
+RightsUserBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/protected/modules/rights/components/RightsUserBehavior.php
+END

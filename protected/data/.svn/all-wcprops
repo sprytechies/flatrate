@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/protected/data
+END
+testdrive.db
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/protected/data/testdrive.db
+END
+schema.mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/protected/data/schema.mysql.sql
+END
+schema.sqlite.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/protected/data/schema.sqlite.sql
+END
+schema.mysql.yiiwebstart.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/protected/data/schema.mysql.yiiwebstart.sql
+END

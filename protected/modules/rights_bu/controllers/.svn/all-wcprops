@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/protected/modules/rights/controllers
+END
+AuthItemController.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/protected/modules/rights/controllers/AuthItemController.php
+END
+InstallController.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/protected/modules/rights/controllers/InstallController.php
+END
+AssignmentController.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/protected/modules/rights/controllers/AssignmentController.php
+END

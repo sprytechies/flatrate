@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/protected/modules/user/views/recovery
+END
+changepassword.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/protected/modules/user/views/recovery/changepassword.php
+END
+recovery.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/protected/modules/user/views/recovery/recovery.php
+END

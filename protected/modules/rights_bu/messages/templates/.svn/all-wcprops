@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/protected/modules/rights/messages/templates
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/protected/modules/rights/messages/templates/install.php
+END
+core.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/protected/modules/rights/messages/templates/core.php
+END

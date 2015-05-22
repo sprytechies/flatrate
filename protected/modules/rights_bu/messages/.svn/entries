@@ -1,0 +1,65 @@
+10
+
+dir
+2
+https://yii-web-start.googlecode.com/svn/trunk/protected/modules/rights/messages
+https://yii-web-start.googlecode.com/svn
+
+
+
+2011-01-07T07:00:10.026215Z
+2
+marco.patania@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2941c22e-814d-243e-a2cd-7703ccac2810
+
+
+
+
+
+
+0
+
+de
+dir
+
+el
+dir
+
+es
+dir
+
+fi
+dir
+
+fr
+dir
+
+hu
+dir
+
+it
+dir
+
+sv
+dir
+
+templates
+dir
+
+zh_cn
+dir
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/protected/modules/user/components
+END
+UWrelBelongsTo.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/protected/modules/user/components/UWrelBelongsTo.php
+END
+UserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/protected/modules/user/components/UserIdentity.php
+END
+UWjuidate.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/protected/modules/user/components/UWjuidate.php
+END
+UActiveRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/protected/modules/user/components/UActiveRecord.php
+END
+UWfile.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/protected/modules/user/components/UWfile.php
+END
+UHtml.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/protected/modules/user/components/UHtml.php
+END
